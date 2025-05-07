@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176656851950",
+    "project_id": "flutter-chata-pp-dc7f4",
+    "storage_bucket": "flutter-chata-pp-dc7f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176656851950:android:2ca998b8f3594c84f7e4ff",
+        "android_client_info": {
+          "package_name": "com.Akash.todo_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86V-KWeb8p5DGIE5ArvHXJ4MZJLG77lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
